@@ -55,6 +55,8 @@ full-featured personal web navigator. Works with user accounts.
 ### current scores
 porchLogic is using SourceCred to analyze the graph of contributions to this project
 
+all user accounts will exist in the graph (i.e. $1/mth gets translated to a score)
+
 ```
 PL : 21281
 Alice : 10817
