@@ -10,7 +10,7 @@
 
 
 🔭 I’m currently working on :  
-`keyboard interface and shared language / history`
+`keyboard interface and shared visual language / history`
 
 🌱 I’m currently learning :  
 `open source`
