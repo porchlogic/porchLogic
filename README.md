@@ -20,7 +20,8 @@
 
 🤔 I’m looking for help with :  
 `database selection` ,  
-`wallet architecture`  
+`wallet architecture` ,  
+`sourceCred installation` ,  
 
    💬 Ask me about :  
 `[ ] , { } , keyboards, interfaces` ,  
@@ -38,11 +39,9 @@
 
 
 ### about
-porchLogic will launch publicly soon as a MIT-licensed repo, so that it can grow as a visual language and interface.
+porchLogic will launch publicly soon as an MIT-licensed repo, so that it can grow as a visual language and interface.
 
-porchLogic is using SourceCred to analyze the graph of contributions to this project.
-
-
+porchLogic is using SourceCred to analyze the graph of contributions to this project:
 
 ### current scores
 
