@@ -39,7 +39,16 @@
 
 
 ## about
-porchLogic will launch as an MIT-licensed repo, so that it can grow as a visual language and interface. Once it becomes a useable public beta, the public repos will be updated and installers updated on porchlogic.com, as well as a limited interactive terminal to the network on porchlogic.com.
+porchLogic will launch as an MIT-licensed repo, so that it can grow as a visual language and interface. These will be the repos:
+
+### porchlogic.com
+interactive public terminal (limited features)
+
+### porchLogic Chrome extension
+enhanced in-browser navigator for the network
+
+### Win + Mac + Linux desktop app
+full-featured personal web navigator
 
 porchLogic is using SourceCred to analyze the graph of contributions to this project:
 
