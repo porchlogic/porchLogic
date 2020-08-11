@@ -38,7 +38,7 @@
 `...`
 
 
-### about
+## about
 porchLogic will launch publicly soon as an MIT-licensed repo, so that it can grow as a visual language and interface.
 
 porchLogic is using SourceCred to analyze the graph of contributions to this project:
@@ -53,7 +53,10 @@ Carol : 3754
 ```
 
 
+## KBUI
+a repo with components to build components of a personal keyboard user interface
 
+##
 
 
 
