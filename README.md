@@ -50,9 +50,10 @@ enhanced in-browser navigator for the network. Works with user accounts.
 ### Win + Mac + Linux desktop app
 full-featured personal web navigator. Works with user accounts.
 
-porchLogic is using SourceCred to analyze the graph of contributions to this project:
+
 
 ### current scores
+porchLogic is using SourceCred to analyze the graph of contributions to this project
 
 ```
 PL : 21281
