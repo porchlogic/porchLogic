@@ -38,7 +38,7 @@
 
 
 ### about
-pochLogic will launch publicly open-source, with those who share this private repo of MIT-licensed code as the stweards of the code, so that it can grow as a visual langage and interface.
+pochLogic will launch publicly soon as a MIT-licensed repo, so that it can grow as a visual langage and interface.
  
 
 
