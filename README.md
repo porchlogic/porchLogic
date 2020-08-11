@@ -38,8 +38,10 @@
 `...`
 
 
-## about
+# about
 This repo will go public as soon as the three products below are ready, so that it can grow as a visual language and interface.
+
+## products
 
 ### porchlogic.com
 interactive public terminal (limited features, can browse public maps attached to main branch)
@@ -52,7 +54,7 @@ full-featured personal web navigator. Works with user accounts.
 
 
 
-### current scores
+## current scores
 porchLogic is using SourceCred to analyze the graph of contributions to this project
 
 all user accounts will exist in the graph (i.e. $1/mth gets translated to a score)
@@ -63,13 +65,6 @@ Alice : 10817
 Bob : 5877
 Carol : 3754
 ```
-
-## repos
-### KBUI
-a repo with components to build components of a personal keyboard user interface and shared operating system
-
-### Chrome extension
-
 
 
 
