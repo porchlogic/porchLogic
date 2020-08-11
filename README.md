@@ -39,7 +39,7 @@
 
 
 ## about
-porchLogic will launch publicly soon as an MIT-licensed repo, so that it can grow as a visual language and interface.
+porchLogic will launch as an MIT-licensed repo, so that it can grow as a visual language and interface. Once it becomes a useable public beta, the repo and installers will be posted publicly and on porchlogic.com
 
 porchLogic is using SourceCred to analyze the graph of contributions to this project:
 
@@ -52,11 +52,12 @@ Bob : 5877
 Carol : 3754
 ```
 
+## repos
+### KBUI
+a repo with components to build components of a personal keyboard user interface and shared operating system
 
-## KBUI
-a repo with components to build components of a personal keyboard user interface
+### Chrome extension
 
-##
 
 
 
