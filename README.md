@@ -4,6 +4,7 @@
 `porchLogic` ,  
 `Github : p1s2e3u4d5o6h7a8s9h/pl/gh` ,  
 `BTC : p1s2e3u4d5o6h7a8s9h/pl/btc` ,  
+`ETH : p1s2e3u4d5o6h7a8s9h/pl/eth` ,  
 `twitter : @porchlogic` ,  
 `workflowy : p1s2e3u4d5o6h7a8s9h/pl/wf`
 
@@ -35,28 +36,12 @@
 ⚡ Fun fact:  
 `...` 
 
+
+### about
+pochLogic will launch open-source, with those who share this private repo of MIT-licensed code as the stweards of the code, so that it can grow as a visual langage and interface.
  
 
-## I finally understand the point of open source
-   all we have to do is keep a documentation of contributions,
-   and distribute revenue to them,  
-   and document it in a public transaction ledger,  
-   whether it's our brain algorithms that produce intuitive judgements on distribution weights,  
-   or using an external algorithm to help us decide,  
-   because the incremental adjustments to the distribution weights are saved in a collectivey owned database by contributors each time any transaction flows coin into `p1s2e3u4d5o6h7a8s9h/pl`  
- 
-  
- ### porchLogic is currently flowing 50% of revenue to the following wallets and weights:
- ##### ( pdeudo public-keys for now )
- 
- - `weight : 300 , 'wallet' : p1s2e3u4d5o6h7a8s9h/alice`
- - `weight : 200 , 'wallet' : p1s2e3u4d5o6h7a8s9h/bob`
- 
- ### as documented publicly here: `p1s2e3u4d5o6h7a8s9h/pl/pub`
- - ( public address on a blockchain )
- - which will show the history of distributions to public-keys as the most transparent 'proof' of the future 
- - because the future is simply a prediction based on known facts of the past
- - facts are a documented transaction between any two entities, as provable by any number of third parties
+
  
  
  
