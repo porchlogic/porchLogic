@@ -38,9 +38,20 @@
 
 
 ### about
-pochLogic will launch publicly soon as a MIT-licensed repo, so that it can grow as a visual language and interface.
+porchLogic will launch publicly soon as a MIT-licensed repo, so that it can grow as a visual language and interface.
+
+porchLogic is using SourceCred to analyze the graph of contributions to this project.
 
 
+
+### current scores
+
+```
+PL : 21281
+Alice : 10817
+Bob : 5877
+Carol : 3754
+```
 
 
 
