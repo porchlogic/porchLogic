@@ -39,7 +39,7 @@
 
 
 # about
-This repo will go public as soon as the three products below are ready, so that it can grow as a visual language and interface.
+This repo will go public as soon as the three products below are ready for public beta, so that it can grow as a useable visual language and interface.
 
 ## products
 
