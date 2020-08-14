@@ -21,9 +21,9 @@
 🤔 I’m looking for help with :  
 `database selection` ,  
 `wallet architecture` ,  
-`sourceCred installation` ,  
+`elegant stack` ,  
 
-   💬 Ask me about :  
+💬 Ask me about :  
 `[ ] , { } , keyboards, interfaces` ,  
 `my console`
 
