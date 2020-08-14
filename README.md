@@ -43,18 +43,18 @@ This is the codebase to build the following products:
 
 ## products
 
-### porchlogic.com
+### 💾 porchlogic.com
 interactive public terminal website (limited features, can browse public maps attached to main branch)
 
-### porchLogic Chrome extension
+### 💾 porchLogic Chrome extension
 enhanced in-browser navigator for the network. Works with user accounts for private data.
 
-### Win + Mac + Linux desktop app
+### 💾 Win + Mac + Linux desktop app
 full-featured personal web/key/map navigator. Works with user accounts.
 
 ## modules
 
-### KBUI
+### ⚙ KBUI
 KBUI maps things
 to the keys on your keyboard
 to launch with such speed
