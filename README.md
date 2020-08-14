@@ -6,7 +6,7 @@
 `BTC : p1s2e3u4d5o6h7a8s9h/pl/btc` ,  
 `ETH : p1s2e3u4d5o6h7a8s9h/pl/eth` ,  
 `twitter : @porchlogic` ,  
-`workflowy : p1s2e3u4d5o6h7a8s9h/pl/wf`
+`workflowy : https://workflowy.com/s/porchlogic/bnDZ9UH8X592OMJo`
 
 
 🔭 I’m currently working on :  
