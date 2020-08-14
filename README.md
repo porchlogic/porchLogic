@@ -55,9 +55,11 @@ full-featured personal web/key/map navigator. Works with user accounts.
 ## modules
 
 ### KBUI
-translates json arrays of objects to keys on your keyboard
+KBUI maps things
+to the keys on your keyboard
+to launch with such speed
 
-video link
+https://www.youtube.com/watch?v=Y3_ffwjxjmE&feature=youtu.be
 
 <!--
 **porchlogic/porchLogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
