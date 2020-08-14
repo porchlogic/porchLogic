@@ -39,18 +39,18 @@
 
 
 # about
-This repo will go public as soon as the three products below are ready for public beta, so that it can grow as a useable visual language and interface.
+This is the codebase to build the following products:
 
 ## products
 
 ### porchlogic.com
-interactive public terminal (limited features, can browse public maps attached to main branch)
+interactive public terminal website (limited features, can browse public maps attached to main branch)
 
 ### porchLogic Chrome extension
-enhanced in-browser navigator for the network. Works with user accounts.
+enhanced in-browser navigator for the network. Works with user accounts for private data.
 
 ### Win + Mac + Linux desktop app
-full-featured personal web navigator. Works with user accounts.
+full-featured personal web/key/map navigator. Works with user accounts.
 
 
 
