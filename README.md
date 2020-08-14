@@ -21,7 +21,7 @@
 🤔 I’m looking for help with :  
 `database selection` ,  
 `wallet architecture` ,  
-`elegant stack` ,  
+`creating elegant stack` ,  
 
 💬 Ask me about :  
 `[ ] , { } , keyboards, interfaces` ,  
