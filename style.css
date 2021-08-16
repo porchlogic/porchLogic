@@ -7,3 +7,8 @@ h1 {
   font-size:24;
   color:blue;
 }
+
+.central-container {
+  margin: auto;
+  width:80%;
+}
