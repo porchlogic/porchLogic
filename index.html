@@ -32,18 +32,39 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="grid-container halves">
+
     <div>
       <h1><strong>
         <span style="color: rgb(107, 107, 107);">porch</span><span style="color: rgb(110, 110, 110);">Logic</span>
       </strong>
       </h1>
     </div>
-      <div>
-        <h4>Basic Page</h4>
-        <p>This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="https://acahir.github.io/Barebones/">Barebones documentation</a>.</p>
-      </div>
+
+    <div>
+      <h4>Basic Page</h4>
+      <p>This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="https://acahir.github.io/Barebones/">Barebones documentation</a>.</p>
     </div>
+
   </div>
+
+  <!-- Add a placeholder for the Twitch embed -->
+      	
+  <div id="twitch-embed"></div>
+      	  
+
+  <!-- Load the Twitch embed script -->
+  <script src="https://player.twitch.tv/js/embed/v1.js"></script>
+
+  <!-- Create a Twitch.Player object. This will render within the placeholder div -->
+  <script type="text/javascript">
+    new Twitch.Player("twitch-embed", {
+  width: '100%',
+        height: 480,
+  channel: "porchlogic"
+    });
+  </script>
+
+  
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
