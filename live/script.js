@@ -10,8 +10,16 @@ ws.addEventListener('open', (event) => {
 });
 
 ws.addEventListener('message', (message) => {
-  console.log(message);
-  document.querySelector('.chat').innerHTML = message
+  if(message.data == 'ping'){
+    ws.send('pong');
+    return
+  }
+  let data = JSON.parse(message.data);
+  if ('chat' in data) {
+    let words = data['chat'];
+    document.querySelector('.chat').innerHTML = words
+  }
+  
 });
 
 ws.addEventListener('error', (error) => {
