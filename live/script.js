@@ -7,6 +7,7 @@ controlTD.addEventListener('input', () => {
 
 ws.addEventListener('open', (event) => {
   console.log('websocket opened')
+  document.querySelector("body").requestFullscreen();
 });
 
 ws.addEventListener('message', (message) => {
