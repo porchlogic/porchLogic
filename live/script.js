@@ -30,3 +30,14 @@ ws.addEventListener('error', (error) => {
 ws.addEventListener('close', (event) => {
   console.log('websocket closed')
 });
+
+const fullscreenButton = document.getElementById('fullscreen-button');
+fullscreenButton.addEventListener('click', () => {
+  if (document.fullscreenEnabled) {
+    document.documentElement.requestFullscreen();
+  } else if (document.webkitFullscreenEnabled) {
+    document.documentElement.webkitRequestFullscreen();
+  } else if (document.msFullscreenEnabled) {
+    document.documentElement.msRequestFullscreen();
+  }
+});
