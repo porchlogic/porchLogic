@@ -11,6 +11,7 @@ ws.addEventListener('open', (event) => {
 
 ws.addEventListener('message', (message) => {
   console.log(message);
+  document.querySelector('.chat').innerHTML = message
 });
 
 ws.addEventListener('error', (error) => {
