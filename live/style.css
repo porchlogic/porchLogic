@@ -1,6 +1,6 @@
 
 :root {
-    --color-bg: white;
+    --color-bg: rgb(163, 163, 163);
     --color-text-main: #000000;
     --color-primary: #FFFF00;
     --wrapper-height: 87vh;
