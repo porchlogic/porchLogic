@@ -1,4 +1,4 @@
-let ws = new WebSocket('wss://our-socket-server.herokuapp.com/:443');
+let ws = new WebSocket('wss://td-body-tracking.herokuapp.com/:443');
   
 
 ws.addEventListener('open', (event) => {
