@@ -4,6 +4,8 @@
 	
 	import { onMount } from 'svelte';
 
+	import { base } from '$app/paths';
+	console.log('---------Base path:', base);
 	onMount(() => {
 		const script = document.createElement('script');
 		script.src = 'https://assets.calendly.com/assets/external/widget.js';
@@ -45,7 +47,7 @@
 			works with the Quest 3</p>
 		</div>
 		<div class="image">
-			<img src="/VR-Face-Hug.png" alt="VR Face Hug facial interface">
+			<img src={`${base}/VR-Face-Hug.png`} alt="VR Face Hug facial interface">
 		</div>
 	</div>
 	</div>
