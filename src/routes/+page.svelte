@@ -2,8 +2,6 @@
 	import PricingCards from "../lib/PricingCards.svelte";
 
 	
-
-
 	import { onMount } from 'svelte';
 
 	onMount(() => {
