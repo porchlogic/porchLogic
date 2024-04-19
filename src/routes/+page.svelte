@@ -1,31 +1,7 @@
 <script>
 	import PricingCards from "../lib/PricingCards.svelte";
 
-	// const liveStream = document.getElementById('liveStream');
-    // const placeholder = document.getElementById('placeholder');
-
-    // function checkStreamStatus() {
-    //     fetch('https://www.googleapis.com/youtube/v3/videos?part=snippet&broadcastStatus=active&channelId=UChgifjY5u89KyvE4wBIhNjw&key=AIzaSyDD3qaD87K67pnPOj4ohO8JGS0qgqS24Ts')
-    //         .then(response => response.json())
-    //         .then(data => {
-    //             if (data.items && data.items.length > 0) {
-    //                 // Stream is active
-    //                 placeholder.style.display = 'none';
-    //                 liveStream.style.display = 'block';
-    //             } else {
-    //                 // Stream is not active
-    //                 liveStream.style.display = 'none';
-    //                 placeholder.style.display = 'block';
-    //             }
-    //         })
-    //         .catch(error => console.error('Error checking stream status:', error));
-    // }
-
-    // // Check every 5 minutes
-    // setInterval(checkStreamStatus, 300000);
-
-    // // Initial check on page load
-    // checkStreamStatus();
+	
 
 
 	import { onMount } from 'svelte';
