@@ -1,4 +1,4 @@
-import{s as u,c as f,u as _,g as d,a as m}from"../chunks/scheduler.BvLojk_z.js";import{S as p,i as g,e as h,s as y,h as b,c as $,g as v,d as c,a as S,b as j,f as C,t as k,j as E}from"../chunks/index.Rwu1mzX_.js";const L=!0,z=Object.freeze(Object.defineProperty({__proto__:null,prerender:L},Symbol.toStringTag,{value:"Module"}));function O(o){let a,i=`body {\r
+import{s as u,c as f,u as _,g as d,a as m}from"../chunks/scheduler.Bey5-8KR.js";import{S as p,i as g,e as h,s as y,h as b,c as $,g as v,d as c,a as S,b as j,f as C,t as k,j as E}from"../chunks/index.Cus7Fbla.js";const L=!0,z=Object.freeze(Object.defineProperty({__proto__:null,prerender:L},Symbol.toStringTag,{value:"Module"}));function O(o){let a,i=`body {\r
             margin: 0;\r
             font-family: Arial, sans-serif;\r
             background-color: #333; /* Dark gray background */\r
