@@ -34,10 +34,14 @@
 <style>
 	.style1 {
 		background-color: #515151;
+
+		box-shadow: 350px 50px 125px rgba(3, 27, 12, 0.45);
 	}
 	.style2 {
 		background-color: #2b2d34;
 		color: #3372a2;
+
+		
 	}
 	.style3 {
 		background-color: #203433;
@@ -55,6 +59,10 @@
 
 		margin-top: 50px;
 		margin-bottom: 150px;
+
+		background-color:#20343300 !important;
+
+		
 	}
 	.card {
 		/* border: 1px solid #ccc; */
@@ -64,6 +72,10 @@
 		width: 25%;
 		text-align: center;
 		margin-bottom: 20px; /* Adds spacing between cards when stacked */
+
+
+
+		
 	}
 	.card h2 {
 		font-family: stealth57;
