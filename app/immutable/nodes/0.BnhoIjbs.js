@@ -1,6 +1,0 @@
-import{s as u,c as f,u as _,g as d,a as m}from"../chunks/scheduler.Bey5-8KR.js";import{S as p,i as g,e as h,s as y,h as b,c as $,g as v,d as c,a as S,b as j,f as C,t as k,j as E}from"../chunks/index.Cus7Fbla.js";const L=!0,z=Object.freeze(Object.defineProperty({__proto__:null,prerender:L},Symbol.toStringTag,{value:"Module"}));function O(o){let a,i=`body {\r
-            margin: 0;\r
-            font-family: Arial, sans-serif;\r
-            background-color: #333; /* Dark gray background */\r
-            color: #fff; /* White text color */\r
-        }`,l,s;const r=o[1].default,t=f(r,o,o[0],null);return{c(){a=h("style"),a.textContent=i,l=y(),t&&t.c()},l(e){const n=b("svelte-cag4ot",document.head);a=$(n,"STYLE",{"data-svelte-h":!0}),v(a)!=="svelte-1btbjp8"&&(a.textContent=i),n.forEach(c),l=S(e),t&&t.l(e)},m(e,n){j(document.head,a),C(e,l,n),t&&t.m(e,n),s=!0},p(e,[n]){t&&t.p&&(!s||n&1)&&_(t,r,e,e[0],s?m(r,e[0],n,null):d(e[0]),null)},i(e){s||(k(t,e),s=!0)},o(e){E(t,e),s=!1},d(e){e&&c(l),c(a),t&&t.d(e)}}}function T(o,a,i){let{$$slots:l={},$$scope:s}=a;return o.$$set=r=>{"$$scope"in r&&i(0,s=r.$$scope)},[s,l]}class A extends p{constructor(a){super(),g(this,a,T,O,u,{})}}export{A as component,z as universal};
